@@ -1,0 +1,2 @@
+Controls: ESC exit | D toggle detection | C toggle class filter (disabled if --lock-class) | Arrows move ROI | +/- resize ROI | R recenter
+Hold key: n (macro should send N down on press and up on release).
